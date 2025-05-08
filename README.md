@@ -49,7 +49,7 @@ Busco oportunidades como **Desenvolvedor de Software**, **Analista de Dados** ou
 
 ## 📫 Contato
 
-- LinkedIn: [Igor Lima](www.linkedin.com/in/igor-lima-759a93364)
+- LinkedIn: www.linkedin.com/in/igor-lima-759a93364
 - E-mail: igor.christofidis.lima@gmail.com
 
 
