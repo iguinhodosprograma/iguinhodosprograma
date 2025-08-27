@@ -49,7 +49,13 @@ Busco oportunidades como **Desenvolvedor de Software**, **Analista de Dados** ou
 
 ## 📫 Contato
 
-- LinkedIn: www.linkedin.com/in/igor-christofidis-lima
+<a href="https://www.linkedin.com/in/igor-christofidis-lima" target="_blank" style="text-decoration: none;">
+  <div style="display: inline-flex; align-items: center; background-color: #0077B5; color: white; padding: 6px 10px; border-radius: 5px; font-family: Arial, sans-serif;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 20px; height: 20px; margin-right: 6px;">
+    <strong>LinkedIn</strong>
+  </div>
+</a>
+
 - E-mail: igor.christofidis.lima@gmail.com
 
 
